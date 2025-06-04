@@ -1,0 +1,256 @@
+body {
+    background: rgb(150, 66, 66);
+    width: 100%;
+    height: 100%;
+}
+.nav{ 
+width:400px;
+height: 150px;
+border-radius: 50%;
+border-width: 5px;
+border-top-left-radius: 2%;
+
+
+background-color: rgb(59, 22, 31);
+display: flex;
+align-items: center;
+}
+nav{
+    background: rgb(231, 181, 181);
+    width: 85px;
+    height: 50px;
+    color: hwb(0 100% 0%);
+    position: absolute;
+    right: 40px;
+    display: flex;
+    font-size: 20px;
+    align-items: center;
+    border-radius: 30px;
+    top: 15%;
+
+}
+.boxes{
+    height: 500px;
+    width: 1200;
+    background: linear-gradient(rgb(171, 139, 139), rgb(5, 0, 0));
+    position: absolut;
+    bottom: 0;
+    display: list-item;
+
+    
+
+}
+.boxes:hover{
+    background: linear-gradient(rgb(106, 88, 196), rgb(5, 0, 0));
+}
+.bo1{
+        width: 350px;
+    height:100px;
+    border:5px;
+    border: ear-gradient(brown);
+    padding: 5%;
+    position: absolute;
+    right:505px;
+    top: 65%;
+   border-radius:  15px;
+   background: linear-gradient(white,rgb(136, 112, 112));
+}
+.bo2{
+     border-radius:  30px;
+   border: 10px;
+   background:  linear-gradient(white,rgb(136, 112, 112));
+   width: 950px;
+    height:250px;
+    border-color: linear-gradient(white,rgb(136, 112, 112));
+    position: absolute;
+    top: 700px;
+    display: inline-table;
+    
+}
+.bo3{
+ border-radius:  15px;
+   border: 10px;
+   background: linear-gradient(white,rgb(136, 112, 112));
+   bottom: 0px;
+   right:0%;
+
+
+ width: 350px;
+    height:50px; 
+    border-color: inear-gradient(rgb(141, 32, 32),rgb(146, 110, 110));
+    padding: 5%;
+    position: absolute;
+   background: linear-gradient(white,rgb(136, 112, 112));
+}
+.bo4{
+ border-radius:  15px;
+   border: 10px;
+   background: linear-gradient(white,rgb(136, 112, 112));
+
+       width: 350px;
+    height:50px;
+   border-color: inear-gradient(rgb(141, 32, 32),rgb(146, 110, 110));
+    padding: 5%;
+    position: absolute;
+    right:15px;
+    top: 26%;
+}
+.bo5{
+ border-radius:  25px;
+   border: 25px;
+   background: linear-gradient(white,rgb(136, 112, 112));
+
+        width: 350px;
+    height:80px;
+    border-color: linear-gradient(rgb(141, 32, 32),rgb(146, 110, 110));
+    padding: 5%;
+    position: absolute;
+    right: 510px;
+    top: 26%;
+    
+}
+.im{
+
+    width: 400;
+    height: 400;
+    border-radius: 50px;
+    border-color: brown;
+    border: 20px;
+}
+.logo{
+    width: 5%;
+    height: 10%;
+    position: absolute;
+    left: 170px;
+}
+h1{
+    width: 600px;
+    height: 50px;
+    background: rgb(80, 13, 13);
+    position: absolute;
+    top: 5%;
+    left: 450px;
+    color: aliceblue;
+    border-radius: 15px;
+}
+h2{
+width: 350PX;
+height: 40PX;
+
+position: absolute;
+top: 0%;
+right: 0%;
+font-size: medium;
+align-items: normal;
+color: rgb(84, 3, 3);
+border-radius: 10px;
+
+
+}
+.text{
+    width: 400px;
+    height: 200px;
+    
+    border-radius: 50px;
+    position: static;
+
+}
+h3{
+    color: aliceblue;
+    position: absolute;
+    left: 10%;
+}
+h2:nth-child{
+    position: absolute;
+    color: blue;
+    font-size: 250%;
+}
+.all{
+    width: 350px;
+    height: 450px;
+    position: absolute;
+    left: 4px;
+    top: 32%;
+    border-radius: 10px;
+    background: rgb(0, 0, 0);
+}
+.im1{
+    width: 170px;
+    height: 160px;
+}
+.im2{
+ width: 350px;
+    height: 300px;
+}   
+
+.text2{
+    position: absolute;
+    top:0px;
+    width: 400px;
+    height: 300px;
+    
+    border-radius: 50px;
+    position: static;
+
+}
+
+h3{
+    color: brown;
+    position: absolute;
+    left: 50%;
+    top: 30% ;
+    font-size: 150%;
+}
+.text5{
+    position: absolute;
+    top: 50%;
+    right: 15%;
+    font-size: 150%;
+    color:rgb(81, 15, 15);
+}
+.ad{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 40%;
+    right: 60%;
+}
+.ad1{
+   width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 60%;
+    right: 60%;
+}
+.ad2{
+   width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 80%;
+    right: 60%;
+}
+.adress{
+    color:rgb(32, 3, 4);
+}
+.i{
+   width: 250px; 
+   height: 250px;
+   position: absolute;
+   left: 0px;
+   bottom: 0%;
+}
+.bo1:hover{
+    background: whitesmoke;
+}
+.bo2:hover{
+    background: whitesmoke;
+}
+.bo3:hover{
+    background: whitesmoke;
+}
+.bo4:hover{
+    background: whitesmoke;
+}
+.bo5:hover{
+    background: whitesmoke;
+}

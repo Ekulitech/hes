@@ -1,0 +1,26 @@
+body{
+    background: rgb(201, 196, 196);
+    width: 100%;
+    height: 100%;
+
+}
+a{
+    width: 20%;
+    height: 20%;
+    background: whitesmoke;
+    
+    
+
+}
+.page{
+    width: 100%;
+    height: 100%;
+}
+nav{
+    width: 10%;
+    height: 10%;
+    
+    position: absolute;
+    left: 10%;
+    top: 10%;
+}

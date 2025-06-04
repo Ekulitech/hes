@@ -1,0 +1,141 @@
+body{
+    width: 330px;
+    height:100%;
+    background: brown;
+}
+.logo{
+    width:4%;
+    height:7%;
+    position: absolute;
+    left: 10px;
+    top: 3%;}
+    nav{
+        width: 70px;
+        height: 15px;
+        background: white;
+        position: absolute;
+        top: 4%;
+        left: 0px;
+        border-radius: 10px;
+         }
+.nav{ 
+width:30px;
+height: 24px;
+border-radius: 10%;
+border-width: 5px;
+border-top-left-radius: 2%;
+
+
+background-color: transparent;
+display: flex;
+align-items: center;
+}
+.j{
+width:330px;
+height: 50px;
+border-radius: 10%;
+border-width: 5px;
+border-top-left-radius: 2%;
+ position: absolute;
+    left: 10px;
+    top: 3%;
+
+background-color: rgb(23, 1, 1);
+
+align-items: center;
+}
+.e{
+    position: absolute;
+    top: auto;
+    color: rgb(0, 0, 240);
+}
+.im1,.im2,.im3,.w{
+    width:  330px;
+    height: 250px;
+}
+.w{
+    width: 330px;
+    height: 300px;
+}
+.man{
+width: 90px;
+    height: 90px;
+     position: absolute;
+    top:240px;
+    left: 260px;
+}
+.weather{
+    width: 50px;
+    height: 100px;
+    position: absolute;
+    top:330px;
+    left: 290px;
+}
+h2{
+    font-weight: 300;
+    font-size: larger;
+    font-style: unset;
+    color: green;
+ 
+}
+.e{
+       position: absolute;
+    top: 20px;
+    left: 25px;
+    font-size: 60px;
+    color: rgb(255, 0, 208);
+}
+.start{
+    width: 300px;
+    height: 100px;
+    background: rgb(87, 0, 6);
+    border: 15px solid rgb(35, 0, 0);
+    text-align: center;
+    color: green;
+    font-size: 30px;
+    align-items: center;
+    align-content: center;
+    font-weight: 100;
+}
+.ad,.ad1,.ad2{
+     width:  10%;
+    height: 10%;
+   padding: 30px;
+   background: black;
+   gap: 20px;;
+}
+.ads{
+    width: 300px;
+    height: 300px;
+    background: red;
+}
+    .ali{
+        
+   
+   
+    }
+.i{
+     width: 270px;
+     background: black transparent;
+    height: 150px;
+}
+
+
+h1{
+    font-size: small;
+    color: aliceblue;
+    width:330px;
+    height: 15px;
+    background-color: rgb(60, 36, 7);
+    position: absolute;
+    top:60px;
+}
+nav{
+    position: absolute;
+    left: 15%;
+}
+.text1,.text2,.text,.bo4,.text5,.bo4,.bo3{
+    background: rgb(53, 44, 4);
+    color: aliceblue;
+    width: 320px;
+}
